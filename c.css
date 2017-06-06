@@ -1,0 +1,32 @@
+
+.triangle{
+	width: 300px;
+	background-color:green;
+	height: 300px;
+	position: relative;
+
+}
+.f{
+	padding: 15px;
+	text-align: center;
+	background-color: blue;
+	color: white;
+}
+.s{
+	padding: 15px;
+	text-align: center;
+	background-color: black;
+	color: white;
+
+}
+.t{
+	padding: 15px;
+	text-align: center;
+	background-color:yellow;
+	color: white;
+}
+img{
+	position : absolute;
+	top: 0;
+	left:0;
+}
